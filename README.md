@@ -19,6 +19,7 @@ My main interests are:
 - Deep Learning and Neural Networks
 - Python for ML engineering
 - Full-stack development with Flask, React, and SQL
+- LLM and RAG applications
 
 I enjoy working on projects that combine intelligent systems with usable products.
 
@@ -26,39 +27,39 @@ I enjoy working on projects that combine intelligent systems with usable product
 
 ## Featured Projects
 
-### [Machine Learning Portfolio](https://github.com/erdi6sh/holbertonschool-machine_learning)
-A collection of machine learning projects covering core concepts such as neural networks, backpropagation, deep learning, and applied ML algorithms.
+### [LIGJBOT](https://github.com/frenk1j/ligjbot)
+An Albanian legal assistant that helps users understand laws in simple language by combining conversational AI with retrieval from indexed legal sources and uploaded PDFs. [cite:1]
 
 **Highlights**
-- Strong foundation in ML theory and implementation
-- Covers multiple topics across the learning path
-- Shows consistent work in Python-based ML development
+- Uses RAG to answer legal questions with source-backed responses. [cite:1]
+- Combines FAISS semantic retrieval with BM25 keyword search over Albanian legal materials. [cite:1]
+- Supports PDF upload, inline source linking, and a responsive web interface. [cite:1]
 
-**Tech:** Python, NumPy, TensorFlow, Keras
+**Tech:** Python, Flask, LangChain, FAISS, BM25, Groq
 
 ---
 
 ### [Football Statistics Platform](https://github.com/kevin10v/football_statistics)
-A data-driven football analytics platform for exploring statistics, performance trends, and match-related insights through a clean web interface.
+A full-stack Premier League statistics web application built with Python Flask for player stats, team dashboards, fixtures, and machine learning-based match predictions for the 2024/25 season. [cite:2]
 
 **Highlights**
-- Combines data analysis with full-stack development
-- Focuses on visualization and practical sports analytics
-- Demonstrates backend and frontend integration
+- Includes player statistics, team performance dashboards, match results, and fixtures. [cite:2]
+- Uses a machine learning model to predict match outcomes. [cite:2]
+- Provides charts, tables, and a responsive interface for desktop and mobile. [cite:2]
 
-**Tech:** Python, Flask, HTML, CSS, JavaScript, SQL
+**Tech:** Python, Flask, HTML, CSS, JavaScript, scikit-learn, Chart.js
 
 ---
 
 ### [Blackjack YOLO Game](https://github.com/kevinvoka/blackjack21)
-A computer vision-powered blackjack project that uses object detection to recognize playing cards and connect them to live game logic.
+A computer-vision blackjack project that uses a webcam, YOLO-based card detection, and a React + Flask full-stack architecture. [cite:3]
 
 **Highlights**
-- Uses YOLO for real-time card detection
-- Combines AI with interactive gameplay
-- Blends computer vision with full-stack application structure
+- Uses real-time webcam-based card capture and YOLO detection. [cite:3]
+- Includes live game flow, betting, bankroll management, and player actions like hit, stand, double down, and split. [cite:3]
+- Connects computer vision to an interactive gameplay interface. [cite:3]
 
-**Tech:** Python, YOLO, Flask, React, JavaScript
+**Tech:** Python, YOLO, Flask, React, JavaScript, Socket.IO
 
 ---
 
@@ -71,7 +72,7 @@ Python, JavaScript, SQL, HTML, CSS
 Flask, React, Node.js, MySQL, Git, Linux, VS Code
 
 **ML / AI**  
-TensorFlow, Keras, YOLO, Deep Learning, Computer Vision
+TensorFlow, Keras, YOLO, Deep Learning, Computer Vision, RAG, LangChain
 
 ---
 
