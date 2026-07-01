@@ -26,9 +26,9 @@ Currently specializing in Computer Vision (YOLO), Neural Networks, and advanced 
 
 | Project | Description |
 |--------|-------------|
-| [🤖 Machine Learning Portfolio](https://github.com/erdi6sh/holbertonschool-machine_learning) | Neural networks, deep learning, backpropagation, and ML algorithms |
-| [⚽ Football Statistics Platform](https://github.com/kevin10v/football_statistics) | Data-driven app for analyzing and visualizing football statistics |
-| [🃏 Blackjack YOLO Game](https://github.com/kevinvoka/blackjack21) | Real-time playing card detection using YOLO object detection |
+| [ Machine Learning Portfolio](https://github.com/erdi6sh/holbertonschool-machine_learning) | Neural networks, deep learning, backpropagation, and ML algorithms |
+| [ Football Statistics Platform](https://github.com/kevin10v/football_statistics) | Data-driven app for analyzing and visualizing football statistics |
+| [ Blackjack YOLO Game](https://github.com/kevinvoka/blackjack21) | Real-time playing card detection using YOLO object detection |
 
 ***
 
